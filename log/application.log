@@ -1,0 +1,15 @@
+2024-10-04 09:09:40 DEBUG LogTest:19 - This is debug : nghiabug
+2024-10-04 09:09:40 INFO  LogTest:23 - This is info : nghiabug
+2024-10-04 09:09:40 WARN  LogTest:26 - This is warn : nghiabug
+2024-10-04 09:09:40 ERROR LogTest:27 - This is error : nghiabug
+2024-10-04 09:09:40 FATAL LogTest:28 - This is fatal : nghiabug
+2024-10-04 09:09:55 DEBUG LogTest:19 - This is debug : nghiabug
+2024-10-04 09:09:55 INFO  LogTest:23 - This is info : nghiabug
+2024-10-04 09:09:55 WARN  LogTest:26 - This is warn : nghiabug
+2024-10-04 09:09:55 ERROR LogTest:27 - This is error : nghiabug
+2024-10-04 09:09:55 FATAL LogTest:28 - This is fatal : nghiabug
+2024-10-04 09:24:38 DEBUG LogTest:19 - This is debug : nghiabug
+2024-10-04 09:24:38 INFO  LogTest:23 - This is info : nghiabug
+2024-10-04 09:24:38 WARN  LogTest:26 - This is warn : nghiabug
+2024-10-04 09:24:38 ERROR LogTest:27 - This is error : nghiabug
+2024-10-04 09:24:38 FATAL LogTest:28 - This is fatal : nghiabug
