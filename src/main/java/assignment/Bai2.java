@@ -31,7 +31,7 @@ public class Bai2 {
             } else if (electricNumber <= level3) {
                 electricPrice = level2*level1Price + (electricNumber - level2)*level2Price;
             } else
-                electricPrice = level2*level1Price + level3*level2Price + (electricNumber - level3)*level3Price;
+                electricPrice = level2*level1Price + (level3 - level2)*level2Price + (electricNumber - level3)*level3Price;
 
             System.out.println("Tiền điện: "+electricPrice);
         }
